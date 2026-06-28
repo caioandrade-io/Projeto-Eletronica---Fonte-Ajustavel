@@ -40,11 +40,20 @@ Potenciômetro - Componente que permite ajustar a tensão de saída da fonte. Ao
 
 
 
-## Imagem do circuito (Falstad)
+## Imagem do Circuito (Falstad)
 
 <img width="835" height="298" alt="image" src="https://github.com/user-attachments/assets/2662686c-2e88-40bd-ab76-f6a35b188ed8" />
 
 <img width="922" height="358" alt="image" src="https://github.com/user-attachments/assets/815ab65f-0a42-434d-a429-d226d3189e13" />
+
+### Ripples ao Longo do Circuito
+<img width="581" height="187" alt="image" src="https://github.com/user-attachments/assets/9a923baa-8483-474d-9043-82574ca16bf5" />
+
+<img width="578" height="187" alt="image" src="https://github.com/user-attachments/assets/30f1f8da-9d72-411b-b373-3937cea3fc1c" />
+
+<img width="581" height="194" alt="image" src="https://github.com/user-attachments/assets/0af6002c-dc64-468e-bde9-23f9df31491f" />
+
+
 
 
 ## Video | Explicação do Projeto
