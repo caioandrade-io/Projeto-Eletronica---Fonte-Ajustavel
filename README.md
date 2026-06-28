@@ -44,7 +44,11 @@ Potenciômetro - Componente que permite ajustar a tensão de saída da fonte. Ao
 
 <img width="835" height="298" alt="image" src="https://github.com/user-attachments/assets/2662686c-2e88-40bd-ab76-f6a35b188ed8" />
 
+**Obs --> Circuito sem a carga teste, por isso, nao foi necessário adcionar o resistor de 100 Ohms para proteger o transistor.**
+
 <img width="922" height="358" alt="image" src="https://github.com/user-attachments/assets/815ab65f-0a42-434d-a429-d226d3189e13" />
+
+**Obs --> Circuito com a carga teste, como foi feito os cálculos para o pleno funcionamento do projeto.**
 
 ### Ripples ao Longo do Circuito
 <img width="581" height="187" alt="image" src="https://github.com/user-attachments/assets/9a923baa-8483-474d-9043-82574ca16bf5" />
@@ -78,6 +82,7 @@ https://drive.google.com/drive/folders/1JDEcJlynEaKJ3IBIwu-h6EHguiN8ARvE?usp=dri
 Caio Andrade Oliveira - 17929272\
 Davi Gabriel Gottardi - 17885361\
 Bernardo Moreira Brandão Bastos - 17881401
+Enzo Ferreira Amorim - 17887488
 
 
 
