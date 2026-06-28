@@ -17,7 +17,12 @@
 | 1x   | Diodo Zener   | R$0,50(unidade)|
 
 
+## Descrição dos Componentes
+- **TRANSFORMADOR**: é um componente elétrico que altera o valor da tensão alternada (CA) utilizando indução eletromagnética. No circuito, é o responsável por diminuir a diferença de potencial de 127V para a margem final alcançada pela fonte (3V-12V). 
 
+- **PONTE RETIFICADORA (PONTE DE DIODO)**: É um circuito formado por quatro diodos conectados de maneira específica para realizar a retificação de onda completa. Sua principal função é converter a corrente alternada (CA) em corrente contínua (CC), permitindo que a corrente elétrica "corra" sempre no mesmo sentido. No circuito, a ponte retificadora recebe a tensão alternada proveniente do transformador e a converte em uma tensão contínua pulsante. 
+
+- **CAPACITOR**: É um componente eletrônico capaz de armazenar energia elétrica temporariamente em um campo elétrico. No circuito desenvolvido, foi utilizado um capacitor de 1000 µF, sua função é armazenar carga elétrica quando a tensão atinge seus picos e liberá-la quando essa tensão diminui, assim, uniformizando a corrente e reduzindo as suas ondulações (ripples).
 
 
 
