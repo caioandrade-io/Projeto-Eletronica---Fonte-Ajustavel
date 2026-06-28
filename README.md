@@ -1,4 +1,4 @@
-<img width="835" height="298" alt="image" src="https://github.com/user-attachments/assets/25f91ac0-d08f-4586-8dfc-ad04e1a1aed8" /># Projeto Eletrônica Computação - Fonte Ajustável
+# Projeto Eletrônica Computação - Fonte Ajustável
 
 
 
@@ -29,10 +29,11 @@
 
 
 
-
+## Imagem do circuito(Falstad)
 
 <img width="835" height="298" alt="image" src="https://github.com/user-attachments/assets/2662686c-2e88-40bd-ab76-f6a35b188ed8" />
 
+<img width="922" height="358" alt="image" src="https://github.com/user-attachments/assets/815ab65f-0a42-434d-a429-d226d3189e13" />
 
 
 
