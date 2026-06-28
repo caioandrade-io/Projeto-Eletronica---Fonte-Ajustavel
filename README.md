@@ -51,11 +51,15 @@ Potenciômetro - Componente que permite ajustar a tensão de saída da fonte. Ao
 **Obs --> Circuito com a carga teste, como foi feito os cálculos para o pleno funcionamento do projeto.**
 
 ### Ripples ao Longo do Circuito
+#### Na entrada do Transformador
+
 <img width="581" height="187" alt="image" src="https://github.com/user-attachments/assets/9a923baa-8483-474d-9043-82574ca16bf5" />
+
+#### Após a ponte retificadora
 
 <img width="578" height="187" alt="image" src="https://github.com/user-attachments/assets/30f1f8da-9d72-411b-b373-3937cea3fc1c" />
 
-<img width="581" height="194" alt="image" src="https://github.com/user-attachments/assets/0af6002c-dc64-468e-bde9-23f9df31491f" />
+#### Após o capacitor
 
 <img width="577" height="193" alt="image" src="https://github.com/user-attachments/assets/bdef63e6-e6de-451e-92ce-4a08471d6b68" />
 
