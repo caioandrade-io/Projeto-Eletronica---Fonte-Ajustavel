@@ -2,7 +2,7 @@
 
 
 
-##Componentes
+## Componentes
 | Quantidade    | Componentes  | Preço |
 |------------|------------------|-------------|
 | 2x   | Resistor 4.3K  | R$0,11(unidade) |
