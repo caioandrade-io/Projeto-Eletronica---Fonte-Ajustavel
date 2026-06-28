@@ -20,7 +20,7 @@
 ## Descrição dos Componentes
 - **TRANSFORMADOR**: Componente elétrico que altera o valor da tensão alternada (CA) utilizando indução eletromagnética. No circuito, é o responsável por diminuir a diferença de potencial de 127V para a margem final alcançada pela fonte (3V-12V). 
 
-- **PONTE RETIFICADORA (PONTE DE DIODO)**: Circuito formado por quatro diodos conectados de maneira específica para realizar a retificação de onda completa. Sua principal função é converter a corrente alternada (CA) em corrente contínua (CC), permitindo que a corrente elétrica "corra" sempre no mesmo sentido. No circuito, a ponte retificadora recebe a tensão alternada proveniente do transformador e a converte em uma tensão contínua pulsante. 
+- **PONTE RETIFICADORA (PONTE DE DIODOS)**: Circuito formado por quatro diodos conectados de maneira específica para realizar a retificação de onda completa. Sua principal função é converter a corrente alternada (CA) em corrente contínua (CC), permitindo que a corrente elétrica "corra" sempre no mesmo sentido. No circuito, a ponte retificadora recebe a tensão alternada proveniente do transformador e a converte em uma tensão contínua pulsante. 
 
 - **CAPACITOR**: Componente eletrônico capaz de armazenar energia elétrica temporariamente em um campo elétrico. No circuito desenvolvido, foi utilizado um capacitor de 1000 µF, sua função é armazenar carga elétrica quando a tensão atinge seus picos e liberá-la quando essa tensão diminui, assim, uniformizando a corrente e reduzindo as suas ondulações (#ripples#).
 
@@ -85,7 +85,7 @@ https://drive.google.com/drive/folders/1JDEcJlynEaKJ3IBIwu-h6EHguiN8ARvE?usp=dri
 
 Caio Andrade Oliveira - 17929272\
 Davi Gabriel Gottardi - 17885361\
-Bernardo Moreira Brandão Bastos - 17881401
+Bernardo Moreira Brandão Bastos - 17881401\
 Enzo Ferreira Amorim - 17887488
 
 
