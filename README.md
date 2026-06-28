@@ -18,13 +18,18 @@
 
 
 ## Descrição dos Componentes
-- **TRANSFORMADOR**: é um componente elétrico que altera o valor da tensão alternada (CA) utilizando indução eletromagnética. No circuito, é o responsável por diminuir a diferença de potencial de 127V para a margem final alcançada pela fonte (3V-12V). 
+- **TRANSFORMADOR**: Componente elétrico que altera o valor da tensão alternada (CA) utilizando indução eletromagnética. No circuito, é o responsável por diminuir a diferença de potencial de 127V para a margem final alcançada pela fonte (3V-12V). 
 
-- **PONTE RETIFICADORA (PONTE DE DIODO)**: É um circuito formado por quatro diodos conectados de maneira específica para realizar a retificação de onda completa. Sua principal função é converter a corrente alternada (CA) em corrente contínua (CC), permitindo que a corrente elétrica "corra" sempre no mesmo sentido. No circuito, a ponte retificadora recebe a tensão alternada proveniente do transformador e a converte em uma tensão contínua pulsante. 
+- **PONTE RETIFICADORA (PONTE DE DIODO)**: Circuito formado por quatro diodos conectados de maneira específica para realizar a retificação de onda completa. Sua principal função é converter a corrente alternada (CA) em corrente contínua (CC), permitindo que a corrente elétrica "corra" sempre no mesmo sentido. No circuito, a ponte retificadora recebe a tensão alternada proveniente do transformador e a converte em uma tensão contínua pulsante. 
 
-- **CAPACITOR**: É um componente eletrônico capaz de armazenar energia elétrica temporariamente em um campo elétrico. No circuito desenvolvido, foi utilizado um capacitor de 1000 µF, sua função é armazenar carga elétrica quando a tensão atinge seus picos e liberá-la quando essa tensão diminui, assim, uniformizando a corrente e reduzindo as suas ondulações (ripples).
+- **CAPACITOR**: Componente eletrônico capaz de armazenar energia elétrica temporariamente em um campo elétrico. No circuito desenvolvido, foi utilizado um capacitor de 1000 µF, sua função é armazenar carga elétrica quando a tensão atinge seus picos e liberá-la quando essa tensão diminui, assim, uniformizando a corrente e reduzindo as suas ondulações (#ripples#).
 
+- **DIODO ZENNER** - Componente responsável por definir o limite máximo de tensão da nossa fonte. Quando a tensão tenta ultrapassar o valor máximo do nosso circuito (12 V), o diodo começa a conduzir corrente, evitando que ela continue aumentando. Dessa forma, ele protege o circuito e garante que a saída da fonte nunca ultrapasse esse limite. Em outras palavras, no nosso circuito, o diodo Zener "segura" a tensão máxima em 12 V, permitindo que a fonte seja ajustada com segurança em qualquer valor entre 3 V e 12 V.
+  
+- **RESISTORES** - Componentes que têm a função de limitar a corrente elétrica que circula pelo circuito, evitando que ela ultrapasse valores que possam danificar os outros componentes. Além disso, eles ajudam a controlar a distribuição da tensão no circuito, contribuindo para que a fonte funcione de forma estável.
+Potenciômetro - Componente que permite ajustar a tensão de saída da fonte. Ao girar seu eixo, sua resistência é alterada, modificando a tensão fornecida pelo circuito. No nosso projeto, ele é o componente responsável por permitir que a saída seja regulada de forma contínua entre 3 V e 12 V.
 
+- **TRANSISTOR** - Componente utilizado para controlar a passagem de corrente no circuito. No nosso projeto, ele trabalha em conjunto com o diodo Zener, regulando a corrente que passa por ele e contribuindo para que a fonte mantenha uma tensão de saída estável durante o ajuste entre 3 V e 12 V.
 
 
 
