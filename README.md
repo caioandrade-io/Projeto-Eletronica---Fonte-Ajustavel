@@ -16,7 +16,7 @@
 | 1x   | Protoboard   | R$39,10 |
 | 1x   | Diodo Zener   | R$0,50(unidade)|
 
-**negrito**
+
 
 
 
