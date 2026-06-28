@@ -17,6 +17,7 @@
 | 1x   | Diodo Zener   | R$0,50(unidade)|
 
 *Negrito*
+###negrito
 
 
 
