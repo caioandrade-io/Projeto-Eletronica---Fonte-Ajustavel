@@ -36,6 +36,11 @@
 <img width="922" height="358" alt="image" src="https://github.com/user-attachments/assets/815ab65f-0a42-434d-a429-d226d3189e13" />
 
 
+## Video | Explicação do Projeto
+
+https://drive.google.com/drive/folders/1JDEcJlynEaKJ3IBIwu-h6EHguiN8ARvE?usp=drive_link\
+
+
 
 
 ## Grupo
