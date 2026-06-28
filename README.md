@@ -40,8 +40,8 @@
 
 ## Grupo
 
-Caio Andrade Oliveira - 17929272
-Davi Gabriel Gottardi - 17885361
+Caio Andrade Oliveira - 17929272\
+Davi Gabriel Gottardi - 17885361\
 Bernardo Moreira Brandão Bastos - 17881401
 
 
