@@ -53,6 +53,9 @@ Potenciômetro - Componente que permite ajustar a tensão de saída da fonte. Ao
 
 <img width="581" height="194" alt="image" src="https://github.com/user-attachments/assets/0af6002c-dc64-468e-bde9-23f9df31491f" />
 
+<img width="577" height="193" alt="image" src="https://github.com/user-attachments/assets/bdef63e6-e6de-451e-92ce-4a08471d6b68" />
+
+
 
 
 
