@@ -1,4 +1,4 @@
-# Projeto Eletrônica Computação - Fonte Ajustável
+<img width="835" height="298" alt="image" src="https://github.com/user-attachments/assets/25f91ac0-d08f-4586-8dfc-ad04e1a1aed8" /># Projeto Eletrônica Computação - Fonte Ajustável
 
 
 
@@ -15,6 +15,33 @@
 | 1x   | LED 10 MM      | R$2,50|
 | 1x   | Protoboard   | R$39,10 |
 | 1x   | Diodo Zener   | R$0,50(unidade)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="835" height="298" alt="image" src="https://github.com/user-attachments/assets/2662686c-2e88-40bd-ab76-f6a35b188ed8" />
+
+
+
+
+
+## Grupo
+
+Caio Andrade Oliveira - 17929272
+Davi Gabriel Gottardi - 17885361
+Bernardo Moreira Brandão Bastos - 17881401
 
 
 
