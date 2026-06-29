@@ -44,11 +44,12 @@ Potenciômetro - Componente que permite ajustar a tensão de saída da fonte. Ao
 
 <img width="835" height="298" alt="image" src="https://github.com/user-attachments/assets/2662686c-2e88-40bd-ab76-f6a35b188ed8" />
 
-**Obs --> Circuito sem a carga teste, por isso, nao foi necessário adcionar o resistor de 100 Ohms para proteger o transistor.**
+
+**Obs --> Circuito com a carga teste, como foi feito os cálculos para o pleno funcionamento do projeto.**
 
 <img width="922" height="358" alt="image" src="https://github.com/user-attachments/assets/815ab65f-0a42-434d-a429-d226d3189e13" />
 
-**Obs --> Circuito com a carga teste, como foi feito os cálculos para o pleno funcionamento do projeto.**
+**Obs --> Circuito sem a carga teste, por isso, nao foi necessário adcionar o resistor de 100 Ohms para proteger o transistor.**
 
 ### Ripples ao Longo do Circuito
 #### Na entrada do Transformador
@@ -74,6 +75,12 @@ https://drive.google.com/drive/folders/1JDEcJlynEaKJ3IBIwu-h6EHguiN8ARvE?usp=dri
 ## Imagem do projeto
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/578ce786-689b-431e-9ff1-fcce0f726546" />
+
+## Cálculo Capacitor 
+
+<img width="777" height="847" alt="image" src="https://github.com/user-attachments/assets/3d3b211b-e6b6-4ad1-9e9e-320e2dd201a7" />
+
+
 
 
 
