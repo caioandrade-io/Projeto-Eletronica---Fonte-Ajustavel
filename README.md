@@ -64,6 +64,8 @@ Potenciômetro - Componente que permite ajustar a tensão de saída da fonte. Ao
 
 <img width="577" height="193" alt="image" src="https://github.com/user-attachments/assets/bdef63e6-e6de-451e-92ce-4a08471d6b68" />
 
+## EasyEDA Placa do Circuito Impresso (PCB)
+<img width="828" height="439" alt="PCB_PCB_fonteajustavel_2_2026-07-02-1-1" src="https://github.com/user-attachments/assets/b66a7bb1-5598-42e0-aa8b-a809c034466a" />
 
 
 
