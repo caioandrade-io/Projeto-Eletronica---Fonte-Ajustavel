@@ -71,8 +71,8 @@
 ## EasyEDA Placa do Circuito Impresso (PCB)
 <img width="828" height="439" alt="PCB_PCB_fonteajustavel_2_2026-07-02-1-1" src="https://github.com/user-attachments/assets/b66a7bb1-5598-42e0-aa8b-a809c034466a" />
 
-
-
+## Correções no EasyEDA (Simões pediu)
+Nosso grupo teve dificuldades ao tentar salvar em PDF a parte traseira da placa. Inicialmente, selecionamos as camadas Top e Bottom e configuramos a impressão em modo espelhado. No entanto, ao salvar o arquivo em PDF, apareciam apenas os componentes da placa. Isso ocorreu porque algumas trilhas estavam sobrepostas, impedindo a visualização correta. Após corrigirmos esse problema, tentamos gerar o PDF novamente, mas dessa vez apareciam apenas as trilhas. Percebemos que isso aconteceu porque a camada Top Layer não estava selecionada para exibição. Depois de ajustar essa configuração, conseguimos salvar o PDF corretamente.
 
 ## Video | Explicação do Projeto
 
